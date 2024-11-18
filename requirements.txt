@@ -1,0 +1,5 @@
+numpy
+
+COMMAND
+
+pip install numpy
